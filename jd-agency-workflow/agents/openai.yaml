@@ -1,0 +1,4 @@
+interface:
+  display_name: "JD Agency Workflow"
+  short_description: "京东品牌规范项目的流程总控与质检"
+  default_prompt: "Use $jd-agency-workflow to run a JD brand task through brief intake, rule routing, execution, and QA."
