@@ -1,6 +1,6 @@
 ---
 name: jd-copywriting-guidelines
-description: 按京东 16.0 规范生成、优化、改写、润色或评审中文文案。Use when the user asks for 京东文案、品牌文案、营销文案、活动文案、运营话术、低价表达、优惠文案、权益表达、服务承诺、商品卖点、商品种草、推荐理由、主图/商详/会场/频道导流文案、提示语、弹窗、按钮、Toast、空状态、报错提示、升级提示、客服话术、新手引导、功能命名、入口命名，或要求按京东 16.0 文案规范处理表达。For high-risk commerce copy involving product claims, price claims, service promises, health/function effects, certifications, rankings, reports, or category-sensitive products, apply the commerce compliance gates before drafting.
+description: 按京东 16.0 规范生成、优化、改写、润色或评审中文文案。Use when the user asks for 京东文案、品牌文案、营销文案、活动文案、运营话术、低价表达、优惠文案、权益表达、服务承诺、商品卖点、商品种草、推荐理由、社媒种草标题、高互动带货标题、小红书封面文案、主图/商详/会场/频道导流文案、提示语、弹窗、按钮、Toast、空状态、报错提示、升级提示、客服话术、新手引导、功能命名、入口命名，或要求按京东 16.0 文案规范处理表达。For high-risk commerce copy involving product claims, price claims, service promises, health/function effects, certifications, rankings, reports, or category-sensitive products, apply the commerce compliance gates before drafting.
 ---
 
 # 京东 16.0 文案规范

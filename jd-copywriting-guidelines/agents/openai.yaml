@@ -1,4 +1,4 @@
 interface:
   display_name: "京东文案规范"
-  short_description: "按京东16.0规范和触点角色处理UX、品牌营销、低价与权益文案"
-  default_prompt: "使用 $jd-copywriting-guidelines 生成或评审京东文案，请先判断触点类型和版位角色，再按需读取对应规则。"
+  short_description: "按京东16.0规范处理UX、品牌营销、种草带货、低价与权益文案"
+  default_prompt: "使用 $jd-copywriting-guidelines 生成或评审京东文案，请先判断触点类型和版位角色；涉及社媒种草、带货标题或高风险商品表达时，按需读取对应规则。"
